@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreekEnthusiast
 - 👀 I’m interested in programming, travel, philosophy, biology, and reading.
-- 🌱 I’m currently learning programming.
+- 🌱 I’m currently learning how to program.
 
 <!---
 GreekEnthusiast/GreekEnthusiast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
